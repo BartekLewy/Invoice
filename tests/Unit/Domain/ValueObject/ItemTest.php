@@ -1,6 +1,6 @@
 <?php
 
-namespace BartekLewy\Tests\Invoice\Domain\ValueObject;
+namespace BartekLewy\Tests\Invoice\Unit\Domain\ValueObject;
 
 
 use BartekLewy\Invoice\Domain\ValueObject\Item;

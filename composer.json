@@ -16,6 +16,7 @@
         }
     },
     "require": {
-        "ramsey/uuid": "^3.8"
+        "ramsey/uuid": "^3.8",
+        "symfony/console": "^4.1"
     }
 }

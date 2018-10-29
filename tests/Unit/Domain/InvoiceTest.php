@@ -1,6 +1,6 @@
 <?php
 
-namespace BartekLewy\Tests\Invoice\Domain;
+namespace BartekLewy\Tests\Invoice\Unit\Domain;
 
 use BartekLewy\Invoice\Domain\Exception\{InvalidNameException, ItemNotFoundException};
 use BartekLewy\Invoice\Domain\Invoice;

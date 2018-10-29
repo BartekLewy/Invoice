@@ -1,0 +1,19 @@
+{
+    "name": "bartoszlewandowski/invoice",
+    "require-dev": {
+        "phpunit/phpunit": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Bartosz Lewandowski",
+            "email": "lewandowskibartosz@icloud.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BartekLewy\\Invoice\\": "src/",
+            "BartekLewy\\Tests\\Invoice\\": "tests"
+        }
+    },
+    "require": {}
+}

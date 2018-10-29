@@ -15,5 +15,7 @@
             "BartekLewy\\Tests\\Invoice\\": "tests"
         }
     },
-    "require": {}
+    "require": {
+        "ramsey/uuid": "^3.8"
+    }
 }
